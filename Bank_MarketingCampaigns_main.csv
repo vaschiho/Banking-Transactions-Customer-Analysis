@@ -1,0 +1,6 @@
+CampaignID,CampaignName,StartDate,EndDate,Channel,TargetSegment,SuccessRate
+1,Campaign_1,2023-01-01,2023-01-31,Email,Medium Income,52.69
+2,Campaign_2,2023-01-31,2023-03-02,Social Media,High Income,29.91
+3,Campaign_3,2023-03-02,2023-04-01,SMS,Low Income,54.98
+4,Campaign_4,2023-04-01,2023-05-01,Email,High Income,79.98
+5,Campaign_5,2023-05-01,2023-05-31,Email,High Income,29.03

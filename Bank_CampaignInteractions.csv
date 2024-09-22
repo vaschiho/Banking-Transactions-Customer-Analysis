@@ -1,0 +1,101 @@
+InteractionID,CustomerID,CampaignID,Response
+1,13,2,Accepted
+2,8,2,Declined
+3,5,3,Declined
+4,60,1,Accepted
+5,73,4,Accepted
+6,1,1,No Response
+7,36,1,No Response
+8,35,1,Accepted
+9,66,2,Accepted
+10,63,5,Accepted
+11,23,2,Declined
+12,9,2,Declined
+13,34,1,Declined
+14,46,2,Accepted
+15,78,1,No Response
+16,4,5,Accepted
+17,30,4,Declined
+18,95,1,Declined
+19,75,5,Accepted
+20,99,4,Accepted
+21,72,3,Declined
+22,3,1,Declined
+23,14,1,Declined
+24,60,3,Accepted
+25,77,3,Declined
+26,45,1,Declined
+27,96,3,No Response
+28,34,2,Accepted
+29,45,4,No Response
+30,61,4,No Response
+31,83,4,Declined
+32,16,2,Accepted
+33,66,3,Declined
+34,40,5,Accepted
+35,17,3,No Response
+36,34,1,Accepted
+37,16,4,Declined
+38,60,3,Declined
+39,66,5,Declined
+40,66,1,Accepted
+41,90,2,No Response
+42,13,2,No Response
+43,56,5,Accepted
+44,31,1,Declined
+45,34,4,No Response
+46,39,3,Declined
+47,67,1,Accepted
+48,8,2,Declined
+49,87,5,No Response
+50,78,5,No Response
+51,55,3,Declined
+52,27,5,Accepted
+53,93,5,Declined
+54,53,1,Accepted
+55,39,4,Declined
+56,65,3,No Response
+57,17,1,Accepted
+58,30,4,Accepted
+59,53,1,Accepted
+60,13,1,No Response
+61,21,5,Declined
+62,19,4,No Response
+63,53,3,Accepted
+64,19,3,Declined
+65,57,4,No Response
+66,25,5,Accepted
+67,86,2,Accepted
+68,31,1,No Response
+69,81,5,No Response
+70,55,4,No Response
+71,23,1,Accepted
+72,32,3,No Response
+73,62,2,Accepted
+74,74,3,No Response
+75,10,4,Accepted
+76,100,1,Accepted
+77,72,4,Declined
+78,54,1,No Response
+79,52,5,No Response
+80,20,2,Accepted
+81,32,5,Accepted
+82,14,5,Accepted
+83,50,4,Declined
+84,28,2,Declined
+85,53,1,Accepted
+86,24,1,No Response
+87,79,3,No Response
+88,22,1,Declined
+89,30,4,Declined
+90,63,5,Accepted
+91,4,5,No Response
+92,77,5,Accepted
+93,59,2,Declined
+94,87,1,No Response
+95,8,4,No Response
+96,82,2,Declined
+97,12,3,Accepted
+98,31,4,Accepted
+99,78,4,No Response
+100,34,4,Declined
